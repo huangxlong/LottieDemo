@@ -7,3 +7,10 @@
       lottie_autoPlay：是否加载完成之后，自动播放，默认为 false。
 3. 想要监听动画的开始结束等状态，可以使用 addAnimatorListener() 方法
    如果我们想要监听 Lottie 动画的中间状态，例如执行的进度等等，可以使用 addAnimatorUpdateListener()。
+   
+   Lottie Github：
+https://github.com/airbnb/lottie-android
+
+
+Lottie 官方文档：
+http://airbnb.io/lottie/
